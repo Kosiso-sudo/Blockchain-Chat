@@ -1,7 +1,5 @@
 # SecureChain Messaging Protocol
 
-Version 4.0.0
-
 A decentralized, blockchain-based secure messaging system built on the Stacks blockchain with end-to-end encryption, quantum-resistant cryptographic support, user privacy controls, contact management, conversation threading, and comprehensive blocking mechanisms.
 
 ## Overview
